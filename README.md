@@ -1,2 +1,0 @@
-# cocofoliaCSS
-ココフォリア用OBSカスタムcss
